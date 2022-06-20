@@ -1,2 +1,2 @@
 # Algo2022
-New repo for algorithm practice
+A new attempt to become better at algorithms...
