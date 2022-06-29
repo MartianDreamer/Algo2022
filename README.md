@@ -1,6 +1,6 @@
 Array
 
-- [ ] Two Sum - https://leetcode.com/problems/two-sum/
+- [x] Two Sum - https://leetcode.com/problems/two-sum/
 - [ ] Best Time to Buy and Sell Stock - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 - [ ] Contains Duplicate - https://leetcode.com/problems/contains-duplicate/
 - [ ] Product of Array Except Self - https://leetcode.com/problems/product-of-array-except-self/
@@ -64,12 +64,12 @@ Interval
 
 Linked List
 
-- [ ] Reverse a Linked List - https://leetcode.com/problems/reverse-linked-list/
-- [ ] Detect Cycle in a Linked List - https://leetcode.com/problems/linked-list-cycle/
+- [ ] Reverse a Linked List - https://leetcode.com/problems/reverse-linked-list75/
+- [ ] Detect Cycle in a Linked List - https://leetcode.com/problems/linked-list75-cycle/
 - [ ] Merge Two Sorted Lists - https://leetcode.com/problems/merge-two-sorted-lists/
 - [ ] Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
-- [ ] Remove Nth Node From End Of List - https://leetcode.com/problems/remove-nth-node-from-end-of-list/
-- [ ] Reorder List - https://leetcode.com/problems/reorder-list/
+- [ ] Remove Nth Node From End Of List - https://leetcode.com/problems/remove-nth-node-from-end-of-list75/
+- [ ] Reorder List - https://leetcode.com/problems/reorder-list75/
 
 ---
 
