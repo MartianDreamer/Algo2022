@@ -1,4 +1,4 @@
-package list75;
+package list75.array;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package list75;
+package list75.array;
 
 public class FindMinimumInRotatedSortedArray {
     public int findMin(int[] nums) {

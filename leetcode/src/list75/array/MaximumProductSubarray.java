@@ -1,8 +1,4 @@
-package list75;
-
-import java.util.ArrayList;
-import java.util.Comparator;
-import java.util.List;
+package list75.array;
 
 public class MaximumProductSubarray {
     public int maxProduct(int[] nums) {
