@@ -1,18 +1,17 @@
 package list75.array;
 
-import java.util.*;
-import java.util.stream.Collectors;
+import java.util.Arrays;
+import java.util.LinkedList;
+import java.util.List;
 
 
 public class ThreeSum {
     public List<List<Integer>> threeSum(int[] nums) {
         Arrays.sort(nums);
         List<List<Integer>> rs = new LinkedList<>();
-        int start = 0;
-        int end = nums.length - 1;
         for (int i = 0; i < nums.length; i++) {
-            start = i + 1;
-            end = nums.length - 1;
+            int start = i + 1;
+            int end = nums.length - 1;
             if (i != 0 && nums[i] == nums[i - 1])
                 continue;
             while (start < end) {
